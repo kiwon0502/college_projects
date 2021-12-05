@@ -1,0 +1,60 @@
+@font-face{ 
+	font-family: "NotoSansCJKkr-Regular"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Regular-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Regular-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Regular-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+  @font-face{ 
+	font-family: "NotoSansCJKkr-Thin"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Thin-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Thin-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Thin-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+  @font-face{ 
+	font-family: "NotoSansCJKkr-Light"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Light-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Light-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Light-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+   
+  @font-face{ 
+	font-family: "NotoSansCJKkr-DemiLight"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-DemiLight-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-DemiLight-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-DemiLight-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+   
+  @font-face{ 
+	font-family: "NotoSansCJKkr-Medium"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Medium-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Medium-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Medium-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+   
+  @font-face{ 
+	font-family: "NotoSansCJKkr-Bold"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Bold-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Bold-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Bold-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 
+   
+  @font-face{ 
+	font-family: "NotoSansCJKkr-Black"; 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Black-Hestia.eot'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Black-Hestia.eot#iefix') format('embedded-opentype'); 
+	src: url('../font/NotoSansCJKkr/NotoSansKR-Black-Hestia.woff') format('woff'); 
+	font-style: normal; 
+	font-weight: normal; 
+  } 

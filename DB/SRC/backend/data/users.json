@@ -1,0 +1,21 @@
+[
+    {
+        "id": "eval",
+        "password": "1234",
+        "name": "유현석",
+        "position": "평가자"
+    },
+    {
+        "id": "user",
+        "password": "1234",
+        "name": "이예은",
+        "position": "사용자"
+    },
+
+    {
+        "id": "admin",
+        "password": "1234",
+        "name": "관리자",
+        "position": "관리자"
+    }
+]
